@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1511296885 source:c:\users\user\desktop\УРОКИ\Алоритмы и структуры данных\Лабы\laba2\calc\main.cpp
+	<iostream>
+
+1512416203 source:c:\users\user\desktop\calc\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+
